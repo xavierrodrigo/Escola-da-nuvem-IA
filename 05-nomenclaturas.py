@@ -1,8 +1,11 @@
 #Corrija o nome das variaveis abaixo seguindo as boas práticas
 
-user_name = "Bob"
-UserName = "Zorro"  
-nomedomeio = "Fernandes"
+userName = "Bob"
+userAlias = "Zorro"  
+nomeDoMeio = "Fernandes"
 
+print(userName)
+print(userAlias)
+print(nomeDoMeio)
 
 
